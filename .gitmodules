@@ -1,0 +1,15 @@
+[submodule "taskmanagement_tasks-api"]
+	path = taskmanagement_tasks-api
+	url = git@github.com:Roboromeo1/taskmanagement_tasks-api.git
+[submodule "taskmanagement_oauth-api"]
+	path = taskmanagement_oauth-api
+	url = git@github.com:Roboromeo1/taskmanagement_oauth-api.git
+[submodule "taskmanagement_users-api"]
+	path = taskmanagement_users-api
+	url = git@github.com:Roboromeo1/taskmanagement_users-api.git
+[submodule "taskmanagement_oauth-go"]
+	path = taskmanagement_oauth-go
+	url = git@github.com:Roboromeo1/taskmanagement_oauth-go.git
+[submodule "taskmanagement_utils"]
+	path = taskmanagement_utils
+	url = git@github.com:Roboromeo1/taskmanagement_utils.git
