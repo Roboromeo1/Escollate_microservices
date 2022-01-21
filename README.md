@@ -4,3 +4,9 @@
  3. Note For OauthApi Cassandra db is used which won't work on M1 Macs instead download docker desktop and do a docker pull cassandra and run the image to get cassandra db up and running.
 4. Utils repo consists of logger built using uber zap and common error handling for services
 ![plot](./microservices.png)
+
+# TODOS 
+ 1. Containerize All services using Docker 
+ 2. Sync Project with Travis Ci
+ 
+ 
